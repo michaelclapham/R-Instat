@@ -6118,7 +6118,7 @@
     <value>NoControl</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>R-Instat</value>
+    <value>R-Instat 0.6.0</value>
   </data>
   <data name="&gt;&gt;mnuDescribe.Name" xml:space="preserve">
     <value>mnuDescribe</value>
