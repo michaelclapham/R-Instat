@@ -7,7 +7,7 @@
 ; (To generate a new GUID, click Tools | Generate GUID inside the IDE.)
 AppId={{4263A8D4-1068-45F9-A542-C340C4A22E8B}
 AppName=R-Instat
-#define AppVerName "0.56"
+#define AppVerName "0.6.0"
 AppVersion={#AppVerName}
 AppPublisher=African Maths Institute
 AppPublisherURL=http://r-instat.org/
@@ -23,7 +23,7 @@ SolidCompression=yes
 ArchitecturesInstallIn64BitMode=x64
 
 [Tasks]
-Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "{cm:AdditionalIcons}"; Flags: unchecked
+Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "{cm:AdditionalIcons}";
 Name: "quicklaunchicon"; Description: "{cm:CreateQuickLaunchIcon}"; GroupDescription: "{cm:AdditionalIcons}"; Flags: unchecked; OnlyBelowVersion: 0,6.1
 
 [Files]
